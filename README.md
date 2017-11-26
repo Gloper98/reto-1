@@ -34,3 +34,9 @@ red | green
 + La opcion user cuenta con el efecto hover background color gris y ademas va acompañada con la foto de perfil del usuario.
 ```
 
+* Boton de busqueda filtrada:
+```diff
+- Con la finalidad de que el usuario tenga la posibilidad de realizar busquedas personalizadas, este boton brinda categorias de busqueda, segun los gustos del cliente.
++ Este boton tiene un aspecto de menu sandwich, fuente color gris oscuro, hover gris y outline azul claro.
+```
+
