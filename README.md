@@ -16,9 +16,15 @@ UX | UI
 red | green 
 
  ### Navegador
-* En la parte del navegador tenemos:
+* Boton Pinterest y Home:
 ```diff
 - Dos botones que nos ayudan a acceder al contenido grafico de la red social ubicados en la parte superior(visible): P y Home.
 + Dos botones uno de ellos circular con la letra "P" de Pinterest de color rojo, y el otro con la palabra Home, que hace referencia a el contenido de nuestra cuenta, ambos con efectos hover background redondeado.
+```
+
+* Buscador:
+```diff
+- En el navegador tambien se encuentra ubicado el buscador.
++ El buscador tambien posee un pequeño icono de lupa que hace referencia a la funcion que cumple, ambos elementos, el buscador y el icono son de tonos grises.
 ```
 
