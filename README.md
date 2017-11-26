@@ -13,5 +13,5 @@
  
 UX | UI
 ---|---
- - red | + green 
+red | green 
 
