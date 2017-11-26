@@ -11,7 +11,10 @@
 
  ## Ubicando las partes que conforman el UX & UI
  
+ ```diff
+ 
 UX | UI
 ---|---
-```diff - red ```|```diff + green ```
+ - red | + green 
+ ```
 
