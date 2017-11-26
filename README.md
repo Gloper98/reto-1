@@ -28,3 +28,9 @@ red | green
 + El buscador tambien posee un pequeño icono de lupa que hace referencia a la funcion que cumple, ambos elementos, el buscador y el icono son de tonos grises.
 ```
 
+* User:
+```diff
+- La opcion user esta ubicado en el area del navegador(superior) con el objetivo de tener siempre a la mano la opcion de dirigirte a tu cuenta personal y tener acceso directo a las fotos que guardaste por album, los pins, etc.
++ La opcion user cuenta con el efecto hover background color gris y ademas va acompañada con la foto de perfil del usuario.
+```
+
