@@ -15,7 +15,7 @@ UX | UI
 ---|---
 red | green 
 
- * **Navegador**
+ ### Navegador
  En la parte del navegador tenemos:
 ```diff
 - Dos botones que nos ayudan a acceder al contenido grafico de la red social ubicados en la parte superior(visible): P y Home.
